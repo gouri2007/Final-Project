@@ -1,6 +1,6 @@
-<input type="text" placeholder="Username" />
-<input type="text" placeholder="First Name" />
-<input type="text" placeholder="Last Name" />
-<input type="email" placeholder="Email" />
-<input type="password" placeholder="Password" />
+<input name="userName" />
+<input name="firstName" />
+<input name="lastName" />
+<input name="email" />
+<input name="password" type="password" />
 <button>Register</button>
